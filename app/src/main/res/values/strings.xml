@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">Taller 2</string>
+    <string name="areas">Areas</string>
+    <string name="area">Area</string>
+    <string name="volumenes">Vólumenes</string>
+    <string name="volumen">Vólumen</string>
+    <string name="operaciones_realizadas">Operaciones Realizadas</string>
+    <string name="operacion">Operación</string>
+    <string name="datos">Datos</string>
+    <string name="resultados">Resultados</string>
+    <string name="numero">No.</string>
+    <string name="opciones">Opciones</string>
+    <string name="realizadas">Realizadas</string>
+    <string name="cuadrado">Cuadrado</string>
+    <string name="valor">valor del lado</string>
+    <string name="calcular">Calcular</string>
+    <string name="borrar">Borrar</string>
+    <string name="rectangulo">Rectangulo</string>
+    <string name="valor1">Primer valor del lago</string>
+    <string name="valor2">Segundo valor del lado</string>
+    <string name="triangulo">Triangulo</string>
+    <string name="circulo">Circulo</string>
+    <string name="valor_radio">Valor del Radio</string>
+    <string name="esfera">Esfera</string>
+    <string name="cilindro">Cilindro</string>
+    <string name="valor_altura">Valor de la altura</string>
+    <string name="cono">Cono</string>
+    <string name="cubo">Cubo</string>
+    <string name="error">Por favor digite el valor</string>
+    <string name="valor_arista_cubo">Valor de la arista</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="tipo_cuadrado">Area del cuadrado</string>
+    <string name="tipo_rectangulo">Area del rectangulo</string>
+    <string name="tipo_triangulo">Area del triangulo</string>
+    <string name="tipo_circulo">Area del circulo</string>
+    <string name="lado">Lado</string>
+    <string name="radio">Radio</string>
+    <string name="altura">Altura</string>
+    <string-array name="opciones_principal">
+        <item>@string/areas</item>
+        <item>@string/volumenes</item>
+        <item>@string/operaciones_realizadas</item>
+    </string-array>
+    <string-array name="opciones_area">
+        <item>@string/cuadrado</item>
+        <item>@string/rectangulo</item>
+        <item>@string/triangulo</item>
+        <item>@string/circulo</item>
+    </string-array>
+    <string-array name="opciones_volumen">
+        <item>@string/esfera</item>
+        <item>@string/cilindro</item>
+        <item>@string/cono</item>
+        <item>@string/cubo</item>
+    </string-array>
+</resources>
