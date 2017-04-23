@@ -29,8 +29,8 @@ public class Cubo extends AppCompatActivity {
             String tipo,dato,valor;
             valor=val.getText().toString().trim();
             a=Integer.parseInt(valor);
-            tipo=res.getString(R.string.tipo_circulo);
-            resultado= (int)Math.PI*a*a;
+            tipo=res.getString(R.string.tipo_cubo);
+            resultado= (int)a*a*a;
             dato=res.getString(R.string.lado)+": "+valor;
 
 
@@ -38,18 +38,18 @@ public class Cubo extends AppCompatActivity {
             o.guardar();
             b.putString("Resultado",String.valueOf(resultado));
             b.putString("Tipo",res.getString(R.string.area));
-            b.putString("Figura",res.getString(R.string.circulo));
-            Limpiar_circulo();
+            b.putString("Figura",res.getString(R.string.cubo));
+            Limpiar_cubo();
             i.putExtras(b);
             startActivity(i);
         }
     }
 
     public void borrar(View v){
-        Limpiar_circulo();
+        Limpiar_cubo();
     }
 
-    public void Limpiar_circulo(){
+    public void Limpiar_cubo(){
         val.setText("");
         val.requestFocus();
     }

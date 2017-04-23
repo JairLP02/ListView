@@ -17,14 +17,11 @@
         </activity>
         <activity android:name="com.example.latinProducion.Taller2.Area" />
         <activity android:name="com.example.latinProducion.Taller2.Volumenes" />
-        <activity android:name="com.example.latinProducion.Taller2.Realizadas" />
+        <activity android:name="com.example.latinProducion.Taller2.LISTA" />
         <activity android:name="com.example.latinProducion.Taller2.Cuadrado" />
         <activity android:name="com.example.latinProducion.Taller2.Rectangulo" />
-        <activity android:name="com.example.latinProducion.Taller2.Triangulo" />
         <activity android:name="com.example.latinProducion.Taller2.Circulo" />
         <activity android:name="com.example.latinProducion.Taller2.Esfera" />
-        <activity android:name="com.example.latinProducion.Taller2.Cilindro" />
-        <activity android:name="com.example.latinProducion.Taller2.Cono" />
         <activity android:name="com.example.latinProducion.Taller2.Cubo" />
         <activity android:name="com.example.latinProducion.Taller2.Resultados"></activity>
     </application>

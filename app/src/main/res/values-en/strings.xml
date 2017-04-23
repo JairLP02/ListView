@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Taller 2</string>
+    <string name="altura">Height</string>
+    <string name="borrar">Delete</string>
+    <string name="calcular">Calculate</string>
+    <string name="cilindro">Cilindre</string>
+    <string name="circulo">Circle</string>
+    <string name="cono">Cone</string>
+    <string name="cuadrado">square</string>
+    <string name="cubo">cube</string>
+    <string name="datos">Dates</string>
+    <string name="error">Please enter value</string>
+    <string name="esfera">sphere</string>
+    <string name="lado">Lade</string>
+    <string name="numero">No.</string>
+    <string name="opciones">Option</string>
+    <string name="operacion">Operation</string>
+    <string name="operaciones_realizadas">Operation carried out</string>
+    <string name="radio">Radio</string>
+    <string name="realizadas">Performed</string>
+    <string name="rectangulo">Rectangle</string>
+    <string name="resultados">Results</string>
+    <string name="tipo_circulo">circle area</string>
+    <string name="tipo_cuadrado">square area</string>
+    <string name="tipo_rectangulo">rectangle area</string>
+    <string name="tipo_triangulo">triangle area</string>
+    <string name="valor">Value on the side</string>
+    <string name="triangulo">Triangle</string>
+    <string name="valor1">First value of side</string>
+    <string name="valor2">Second value on the side</string>
+    <string name="valor_altura">Value of height</string>
+    <string name="valor_arista_cubo">Edge value</string>
+    <string name="valor_radio">Radio Value</string>
+    <string name="volumen">Volume</string>
+    <string name="volumenes">Vumumenes</string>
+    <string name="area">area</string>
+    <string name="areas">areas</string>
+    <string name="aceptar">to accept</string>
+</resources>

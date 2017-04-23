@@ -1,41 +1,44 @@
 <resources>
     <string name="app_name">Taller 2</string>
     <string name="areas">Areas</string>
-    <string name="area">Area</string>
-    <string name="volumenes">Vólumenes</string>
-    <string name="volumen">Vólumen</string>
-    <string name="operaciones_realizadas">Operaciones Realizadas</string>
-    <string name="operacion">Operación</string>
-    <string name="datos">Datos</string>
-    <string name="resultados">Resultados</string>
-    <string name="numero">No.</string>
-    <string name="opciones">Opciones</string>
-    <string name="realizadas">Realizadas</string>
-    <string name="cuadrado">Cuadrado</string>
-    <string name="valor">valor del lado</string>
-    <string name="calcular">Calcular</string>
-    <string name="borrar">Borrar</string>
-    <string name="rectangulo">Rectangulo</string>
-    <string name="valor1">Primer valor del lago</string>
-    <string name="valor2">Segundo valor del lado</string>
-    <string name="triangulo">Triangulo</string>
-    <string name="circulo">Circulo</string>
-    <string name="valor_radio">Valor del Radio</string>
-    <string name="esfera">Esfera</string>
-    <string name="cilindro">Cilindro</string>
-    <string name="valor_altura">Valor de la altura</string>
-    <string name="cono">Cono</string>
     <string name="cubo">Cubo</string>
-    <string name="error">Por favor digite el valor</string>
-    <string name="valor_arista_cubo">Valor de la arista</string>
+    <string name="triangulo">Triangulo</string>
+    <string name="borrar">Borrar</string>
+    <string name="valor2">Segundo valor del lado</string>
+    <string name="area">Area</string>
+    <string name="volumen">Volumen</string>
+    <string name="volumenes">Volumenes</string>
+    <string name="valor1">Primer valor del lado</string>
+    <string name="rectangulo">Rectangulo</string>
+    <string name="resultados">Resultados</string>
+    <string name="operaciones_realizadas">Operaciones Realizadas</string>
+    <string name="error">Introdusca el valor</string>
+    <string name="valor">valor del lado</string>
+    <string name="operacion">Operación</string>
+    <string name="opciones">Opciones</string>
+    <string name="circulo">Circulo</string>
+    <string name="realizadas">Realizadas</string>
+    <string name="valor_radio">Valor del Radio</string>
+    <string name="datos">Datos</string>
+    <string name="calcular">Calcular</string>
+    <string name="numero">No.</string>
+    <string name="cilindro">Cilindro</string>
+    <string name="cuadrado">Cuadrado</string>
+    <string name="esfera">Esfera</string>
+    <string name="valor_arista_cubo">" Edge value"</string>
     <string name="aceptar">Aceptar</string>
     <string name="tipo_cuadrado">Area del cuadrado</string>
     <string name="tipo_rectangulo">Area del rectangulo</string>
     <string name="tipo_triangulo">Area del triangulo</string>
     <string name="tipo_circulo">Area del circulo</string>
+    <string name="tipo_esfera">Area de la esfera</string>
+    <string name="tipo_cubo">Area del cubo</string>
     <string name="lado">Lado</string>
     <string name="radio">Radio</string>
     <string name="altura">Altura</string>
+    <string name="valor_altura">Valor de la arista</string>
+    <string name="cono">Cono</string>
+
     <string-array name="opciones_principal">
         <item>@string/areas</item>
         <item>@string/volumenes</item>
@@ -54,3 +57,16 @@
         <item>@string/cubo</item>
     </string-array>
 </resources>
+
+
+
+
+
+
+
+
+
+
+
+
+

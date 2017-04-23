@@ -8,7 +8,7 @@ import android.widget.TextView;
 
 import java.util.ArrayList;
 
-public class Realizadas extends AppCompatActivity {
+public class LISTA extends AppCompatActivity {
     private TableLayout tabla;
     private ArrayList<Operacion> operaciones;
 

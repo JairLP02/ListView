@@ -37,10 +37,6 @@ public class Area extends AppCompatActivity {
                         startActivity(i);
                         break;
                     case 2:
-                        i = new Intent(Area.this, Triangulo.class);
-                        startActivity(i);
-                        break;
-                    case 3:
                         i = new Intent(Area.this, Circulo.class);
                         startActivity(i);
                         break;

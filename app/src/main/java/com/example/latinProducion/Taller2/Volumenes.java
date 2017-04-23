@@ -18,7 +18,7 @@ public class Volumenes extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_volumenes);
+        setContentView(R.layout.activity_volumen);
         ls=(ListView)findViewById(R.id.lvVolumen);
         res=this.getResources();
         opc=res.getStringArray(R.array.opciones_volumen);
@@ -33,14 +33,6 @@ public class Volumenes extends AppCompatActivity {
                         startActivity(i);
                         break;
                     case 1:
-                        i = new Intent(Volumenes.this, Cilindro.class);
-                        startActivity(i);
-                        break;
-                    case 2:
-                        i = new Intent(Volumenes.this, Cono.class);
-                        startActivity(i);
-                        break;
-                    case 3:
                         i = new Intent(Volumenes.this, Cubo.class);
                         startActivity(i);
                         break;
